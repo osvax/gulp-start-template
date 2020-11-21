@@ -1,0 +1,12 @@
+@import "helpers";
+@import "mixins";
+@import "vendor/libs";
+@import "fonts";
+@import "general";
+
+
+body {
+    background-color: $blue;
+    font-size: 21px;
+    color: white;
+}
